@@ -1,0 +1,124 @@
+.cabeza{
+	background-color:rgba(21, 9, 88, 0.562);
+	margin-top: 5px;
+	padding: 2px;
+	height: 95px;
+	
+}
+.logo{
+	height: 73px;
+	display: inline-block;
+	width: 13%;
+	
+}
+.buscar{
+
+	margin-left: 100px;
+	display: inline-block;
+	width: 37%;
+	
+}
+.lupa {
+	margin-left: 6px;
+	display:inline-block;
+	width: 3%;
+
+
+}
+.menu{
+	margin-left: 100px;
+	display: inline-block;
+	width: 20%;
+	
+}
+.cuentas{
+	display: inline-block;
+	width: 30%;
+	
+}
+.pedidos{
+	display: inline-block;
+	width: 30%;
+	
+}
+.prime{
+	display: inline-block;
+	width: 30%;
+
+}
+
+
+
+.cuerpo{
+	margin-top: 10px;
+	
+}
+.imagen1{
+	display: inline-block;
+	width: 49%;
+	
+}
+.imagen2{
+	display: inline-block;
+	width: 49%;
+	
+}
+.texto1{
+	display: inline-block;
+	width: 49%;
+	
+}
+.texto2{
+	display: inline-block;
+	width: 49%;
+	
+}
+.art1{
+	margin-left: 15px;
+	display: inline-block;
+	width: 40%;
+	
+}
+.art2{
+	margin-left: 50px;
+	display: inline-block;
+	width: 40%;
+	
+}
+.art3{
+	margin-left: 15px;
+	display: inline-block;
+	width: 40%;
+
+}
+.art4{
+	margin-left: 50px;
+	display: inline-block;
+	width: 40%;
+	
+}
+
+
+
+
+.pie{
+	background-color: gray;
+	margin-top: 10px;
+	width: 100%;
+	
+	
+}
+.redes{
+	margin-left: auto;
+  	margin-right: auto;
+	width: 17%;
+	
+}
+
+.derechos{
+	text-align: right;
+	width: 40%;
+	margin-left: auto;
+  	margin-right: 4px;
+	
+}
